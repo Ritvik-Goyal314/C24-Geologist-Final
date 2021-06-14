@@ -1,1 +1,2 @@
-# C24-Geologist-Final
+# Geologist
+Geologist Project
